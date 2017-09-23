@@ -62,8 +62,8 @@ SoftwareSerial espSerial =  SoftwareSerial(2,3);      // arduino RX pin=2  ardui
 
 String apiKey = "BBKFOG0IGMIO62M3";     // replace with your channel's thingspeak WRITE API key
 
-String ssid="Wifi_Username";    // Wifi network SSID
-String password ="Wifi_Password";  // Wifi network password
+String ssid="Wifi_User";    // Wifi network SSID
+String password ="Wifi_Pass";  // Wifi network password
 
 boolean DEBUG=true;
 

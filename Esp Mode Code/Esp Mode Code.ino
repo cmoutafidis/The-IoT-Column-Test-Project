@@ -30,8 +30,8 @@
 #include "Virtuino_ESP_WifiServer.h"
 
 
-const char* ssid = "Wifi_Username";    
-const char* password = "Wifi_Password";
+const char* ssid = "Wifi_User";    
+const char* password = "Wifi_Pass";
 WiFiServer server(8000);                      // Server port
 
 
