@@ -15,8 +15,8 @@ Here are some advantages of IoT:
 1. Data: The more the information, the easier it is to make the right decision.
 2. Tracking: The computers keep a track both on the quality and the viability of things. 
 3. Time: The amount of time saved in monitoring and the number of trips done otherwise would be tremendous.
-Here are some disadvantages of IoT:
 
+Here are some disadvantages of IoT:
 1. Compatibility: As of now, there is no standard for tagging and monitoring with sensors.
 2. Privacy/Security: Privacy is a big issue with IoT. 
 3. Safety: There is a chance that the software can be hacked and your personal information misused. 
