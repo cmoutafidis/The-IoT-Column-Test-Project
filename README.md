@@ -1,4 +1,4 @@
-Project Title:The IOT Column Test Project
+Project Title: The IoT Column Test Project
 
 Project Justification:IoT is tagging our day-to-day objects with machine-readable identification tags. Sensors may 
 be a couple with these tags to collect more information about the condition the everyday objects and those present around them.
@@ -7,7 +7,7 @@ your medicines have expired or that the milk is over or you need more pepper.  T
 soon to be a reality due to the amazing possibilities of the Internet of Things (IoT).
 With this project our team has the opportunity to test and discover the advantages and disadvantages of Internet Of Things.
 
-Project IOT Sensors:
+Project IoT Sensors:
 
 1. MQ2 Smoke Gas LPG Butane Hydrogen Gas Sensor Detector Module For Arduino.
 
