@@ -8,8 +8,8 @@ soon to be a reality due to the amazing possibilities of the Internet of Things 
 With this project our team has the opportunity to test and discover the advantages and disadvantages of Internet Of Things.
 
 Project IOT Sensors:
-MQ2 Smoke Gas LPG Butane Hydrogen Gas Sensor Detector Module For Arduino.
-Sound Detection Sensor Module Sound Sensor Intelligent Vehicle For Arduino. 
+1.MQ2 Smoke Gas LPG Butane Hydrogen Gas Sensor Detector Module For Arduino.
+2.Sound Detection Sensor Module Sound Sensor Intelligent Vehicle For Arduino. 
 
 Here are some advantages of IoT:
 1. Data: The more the information, the easier it is to make the right decision.
